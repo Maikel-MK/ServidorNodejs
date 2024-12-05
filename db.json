@@ -1,0 +1,93 @@
+{
+  "users": [
+    {
+      "id": "e837",
+      "username": "Maikel"
+    },
+    {
+      "id": "c36b",
+      "username": "maikel"
+    },
+    {
+      "id": "7089",
+      "username": "mm"
+    },
+    {
+      "id": "a050",
+      "username": "MM"
+    },
+    {
+      "id": "78a7",
+      "username": "mai"
+    },
+    {
+      "id": "2ce3",
+      "username": "text"
+    },
+    {
+      "id": "b20d",
+      "username": "ia"
+    }
+  ],
+  "tareas": [
+    {
+      "text": "Primera Tarea",
+      "user": "maikel",
+      "id": "1",
+      "checked": false
+    },
+    {
+      "id": "1b14",
+      "text": "segunda Tarea",
+      "user": "maikel",
+      "checked": false
+    },
+    {
+      "id": "ef51",
+      "text": "sit",
+      "user": "maikel",
+      "checked": false
+    },
+    {
+      "id": "8209",
+      "text": "Maikel",
+      "user": "mm"
+    },
+    {
+      "id": "d098",
+      "text": "YO",
+      "user": "mm"
+    },
+    {
+      "id": "c9f0",
+      "text": "I",
+      "user": "mm"
+    },
+    {
+      "id": "0b69",
+      "text": "pesentacion",
+      "user": "mai"
+    },
+    {
+      "id": "52f8",
+      "text": "supercariflagilisticoespialidozo",
+      "user": "text"
+    },
+    {
+      "id": "fd7e",
+      "text": "oaralelepipedo",
+      "user": "ia",
+      "checked": true
+    },
+    {
+      "id": "9aa6",
+      "text": "Dr xavier",
+      "user": "ia"
+    },
+    {
+      "id": "2397",
+      "text": "prueba",
+      "user": "mai"
+    }
+  ]
+}
